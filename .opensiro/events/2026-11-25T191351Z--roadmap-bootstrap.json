@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-25T191351Z--roadmap-bootstrap",
+  "recorded_at": "2026-11-25T19:13:51Z",
+  "actor": "ChatGPT AI-assisted OpenSiro roadmap",
+  "kind": "DECISION",
+  "decision": "Initial plan-only bootstrap, DORMANT/PAUSE; GO / NEEDS_EVIDENCE, no publication",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/blob/55e2ca7bc27b1f202bc0be97e922ebb875f81056/PROTOCOL.md",
+    "https://github.com/cogitator-ai/Cogitator-AI/commit/67b4fde644f648bc1df02a1ab38b211cf2171fbd",
+    "https://github.com/opensiro/vsm-harness-index/blob/7abafd36dd9216d94e795dac9e6030bc0e8e56a6/assessments/co/cogitator.md"
+  ],
+  "next_action": "Owner review; explicit RESUME before later metadata changes; public fork Issues disabled."
+}
