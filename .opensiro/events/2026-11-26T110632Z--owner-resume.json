@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-26T110632Z--owner-resume",
+  "recorded_at": "2026-11-26T11:06:32Z",
+  "actor": "OpenSiro owner xLagerFeuer (explicit chat RESUME; recorded by AI assistant)",
+  "kind": "DECISION",
+  "decision": "RESUME cogitator-ai/Cogitator-AI: ACTIVE/ALLOW for preparation of final Issue and publication gate; no POST approval",
+  "evidence_urls": [
+    "https://github.com/opensiro-contributions/cogitator/commit/20bb3793c909c662d07fb8212c877b125ef0bd44"
+  ],
+  "next_action": "Prepare and validate same-case external draft; obtain separate exact publication consent"
+}

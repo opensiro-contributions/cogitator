@@ -2,8 +2,8 @@
   "schema_version": 1,
   "original_repository": "cogitator-ai/Cogitator-AI",
   "working_fork": "opensiro-contributions/cogitator",
-  "attention": "DORMANT",
-  "owner_control": "PAUSE",
-  "last_event_id": "2026-11-25T191351Z--roadmap-bootstrap",
-  "updated_at": "2026-11-25T19:13:51Z"
+  "attention": "ACTIVE",
+  "owner_control": "ALLOW",
+  "last_event_id": "2026-11-26T110632Z--owner-resume",
+  "updated_at": "2026-11-26T11:06:32Z"
 }
