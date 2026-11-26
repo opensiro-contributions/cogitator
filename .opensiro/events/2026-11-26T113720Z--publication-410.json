@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-26T113720Z--publication-410",
+  "recorded_at": "2026-11-26T11:37:20Z",
+  "actor": "xLagerFeuer via AI-assisted Siro VM",
+  "kind": "PUBLICATION_VERIFIED",
+  "case_id": "model-adaptation-s4-20261125",
+  "decision": "ORIGINAL_ISSUE_PUBLISHED; exact owner-approved title and body verified by GitHub readback",
+  "original_issue_url": "https://github.com/cogitator-ai/Cogitator-AI/issues/410",
+  "title_sha256": "b01426944d22fdc373a735fa96879342ce1b0036cc94f5898b8d2617d970a9e1",
+  "body_sha256": "788f7b338fec77ed7568cc61c652401e2564c3910ece4ea28f7e8d9be64a7202",
+  "evidence_urls": [
+    "https://github.com/cogitator-ai/Cogitator-AI/issues/410",
+    "https://github.com/opensiro-contributions/cogitator/blob/bd343488cd652d89cfba62e39481bbf4eb8eec87/.opensiro/issues/model-adaptation-s4-20261125/original-issue-draft.md",
+    "https://github.com/opensiro-contributions/cogitator/blob/bd343488cd652d89cfba62e39481bbf4eb8eec87/.opensiro/issues/model-adaptation-s4-20261125/roadmap.md"
+  ],
+  "next_action": "Observe original Issue feedback when requested; no implementation or further public communication authorized"
+}
